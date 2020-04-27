@@ -23,5 +23,4 @@ https://github.com/agkozak/zsh-z
 Add cascadia font
 https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode
 
-choco install hyper
 ```
